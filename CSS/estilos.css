@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+  background-color: #f2f2f2; 
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+h1 {
+color: #77A632;
+}
+
+h2 {
+  color: #104003;
+  }
+
+h3 {
+  color: #F29F05;
+    }
+
+.btn-zero {
+  background-color: #F29F05;
+  border-color: #F29F05;
+  color: #f2f2f2;
+}
+
+.btn-zero:hover {
+  background-color: #104003;
+  border-color: #104003;
+  color: #f2f2f2;
+}
+
+
+.btn-primary {
+  background-color: #F29F05;
+  border-color: #F29F05;
+}
+
+.btn-primary:hover {
+  background-color: #104003;
+  border-color: #104003;
+  box-shadow: 0px 0px 2px 2px #77A632
+}
+
+.btn-one {
+  border-color: #db4a39;
+  color: #db4a39;
+
+}
+
+.btn-one:hover {
+  background-color: #db4a39;
+  color: #f2f2f2;
+  box-shadow: 0px 0px 2px 2px #db4a39; 
+}
+
+.btn-two {
+  border-color: #3b5998;
+  color: #3b5998;
+
+}
+
+.btn-two:hover {
+  background-color: #3b5998;
+  color: #f2f2f2;
+  box-shadow: 0px 0px 2px 2px #3b5998; 
+}
+
+.btn-three {
+  border-color: #0D0D0D;;
+  color: #0D0D0D;
+
+}
+
+.btn-three:hover {
+  background-color: #0D0D0D;
+  color: #f2f2f2;
+  box-shadow: 0px 0px 2px 2px #0D0D0D;
+}
+
+.link-danger {
+  color: #8FD9D1;
+
+}
+
+
+footer {
+  color: #f2f2f2;
+
+}
+
+.textodois {
+  color: #F29F05;
+  margin-bottom: 0px;
+
+}
+
+/* body {
+    --bege: #E6E0D6;
+    --marrom-escuro: #816D4F;
+    --marrom-claro: #B29463;
+
+
+    --azul-claro: #8FD9D1;
+    --verde-escuro: #104003;
+    --verde-claro: #77A632;
+    --laranja: #F29F05;
+    --preto: #0D0D0D;
+  }
+
