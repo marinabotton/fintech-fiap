@@ -10,7 +10,7 @@ Bem-vindo ao projeto
 
 ## 💻 Como Usar
 
-- Página da aplicação [clicando aqui]()
+- Página da aplicação [clicando aqui](https://marinabotton.github.io/fintech-fiap/)
 
 ## 🛠️ Tecnologias Utilizadas
 
